@@ -1,5 +1,5 @@
 #  Cartoonization with GANs**
-==========================================
+
 
 ## Overview
 
