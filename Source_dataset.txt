@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/djjerrish/nba-player-image-dataset-201920 (Player-Jimmy, Butler)
+https://www.kaggle.com/datasets/gpiosenka/sports-classification (basketball)
