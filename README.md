@@ -1,5 +1,4 @@
-# Cartoonizer_GAN
-**Project Title: Cartoonization with GANs**
+#  Cartoonization with GANs**
 ==========================================
 
 ## Overview
